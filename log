@@ -1,0 +1,9 @@
+Sun, May  4, 2025  8:48:39 PM: 
+ treemap.c | 70 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-----
+ 1 file changed, 65 insertions(+), 5 deletions(-)
+Compilation failed
+test.c:6:8: error: '_strdup' redeclared without dllimport attribute: previous dllimport ignored [-Werror=attributes]
+    6 | char * _strdup(const char * str) {
+      |        ^~~~~~~
+cc1.exe: all warnings being treated as errors
+5729e4d
