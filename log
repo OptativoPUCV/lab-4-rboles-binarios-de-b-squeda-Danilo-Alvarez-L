@@ -14,3 +14,7 @@ test.c:6:8: error: '_strdup' redeclared without dllimport attribute: previous dl
       |        ^~~~~~~
 cc1.exe: all warnings being treated as errors
 ddb85f3
+Sun, May  4, 2025  8:53:59 PM: 
+ tests:  5|7
+total_score: 5/70
+155e805
